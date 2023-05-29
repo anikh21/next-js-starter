@@ -1,6 +1,7 @@
 {
     "name": "client",
-    "version": "0.1.0",
+    "version": "1.0.0",
+    "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
     "private": true,
     "scripts": {
         "dev": "next dev",
@@ -16,5 +17,15 @@
     "devDependencies": {
         "eslint": "8.41.0",
         "eslint-config-next": "13.4.4"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anik-hossain/next-js-starter.git"
+    },
+    "author": "Anik Hossain",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anik-hossain/next-js-starter/issues"
+    },
+    "homepage": "https://github.com/anik-hossain/next-js-starter#readme"
 }
